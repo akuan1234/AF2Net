@@ -23,7 +23,6 @@ https://github.com/AFeng-x/SMT
 We thank them for their contributions.
 
 
-## Subject to the double-blind policy, links to the forecast results and training weights will be made public after the review!!
 
 ## Adaptive feature fusion motivation
 
